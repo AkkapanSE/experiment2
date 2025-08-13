@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'experiment2/react-workshop', // สำหรับ GitHub Pages ใช้ '/<repository-name>/'
+  base: 'experiment2', // สำหรับ GitHub Pages ใช้ '/<repository-name>/'
   build: {
     outDir: 'dist',
     assetsDir: 'assets',

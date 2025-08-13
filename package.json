@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AkkapanSE.github.io/experiment2/react-workshop",
+  "homepage": "https://AkkapanSE.github.io/experiment2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
