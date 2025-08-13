@@ -1,12 +1,11 @@
 // src/App.jsx
-import Welcome from './Welcome';
+import Counter from './Counter';
 
 function App() {
   return (
     <div>
-      {/* ส่ง props ชื่อ name และมีค่าเป็น "นักศึกษา" */}
-      <Welcome name="Akkapan" />
-      <Welcome name="Thanit" />
+      <h1>Workshop: State & Props</h1>
+      <Counter />
     </div>
   );
 }
