@@ -84,3 +84,8 @@ h1 {
 .todo-item button:hover {
   background: #e60000;
 }
+
+.todo-item.completed span {
+  text-decoration: line-through;
+  color: #999;
+}
